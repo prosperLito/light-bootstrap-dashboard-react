@@ -24,21 +24,21 @@ import Icons from "views/Icons";
 const dashboardRoutes = [
 
   {
-    path: "/home",
+    path: "/HOME",
     name: "HOME",
     icon: "nc-icon nc-notification-70",
     component: Dashboard,
     layout: "/admin"
   },
   {
-    path: "/SKILLS",
+    path: "/SERVICES",
     name: "SURVEY-SERVICES",
     icon: "nc-icon nc-notification-70",
     component: UserProfile,
     layout: "/admin"
   },
   {
-    path: "/CREATIVITY",
+    path: "/PRODUCTS",
     name: "SURVEY-PRODUCTS",
     icon: "nc-icon nc-notification-70",
     component: TableList,
@@ -46,7 +46,7 @@ const dashboardRoutes = [
   },
   
   {
-    path: "/ABOUT US",
+    path: "/ABOUTUS",
     name: "ABOUT US",
     icon: "nc-icon nc-notification-70",
     component: Icons,
