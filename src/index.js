@@ -25,9 +25,13 @@ import "./assets/css/animate.min.css";
 import "./assets/scss/light-bootstrap-dashboard-react.scss?v=2.0.0";
 import "./assets/css/demo.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
+import { Helmet } from "react-helmet";
 
 import AdminLayout from "layouts/Admin.js";
 
+<Helmet>
+  <title>{}</title>
+</Helmet>
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
@@ -35,7 +39,7 @@ root.render(
   <BrowserRouter>
     <Switch>
       <Route path="/admin" render={(props) => <AdminLayout {...props} />} />
-      <Redirect from="/" to="/admin/home" />
+      <Redirect from="/" to="/admin/Home" />
      
       
     </Switch>

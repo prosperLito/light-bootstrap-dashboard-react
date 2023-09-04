@@ -1,28 +1,22 @@
 import React from 'react';
 import { useHistory } from "react-router-dom";
-
-
+import { Helmet } from 'react-helmet';
 // react-bootstrap components
 import {
-  Badge,
-  Button,
   Card,
-  Navbar,
-  Nav,
-  Table,
   Container,
   Row,
   Col,
-  Form,
-  OverlayTrigger,
-  Tooltip,
 } from "react-bootstrap";
   
+
 
 
 function Dashboard() {
  
 return  (
+
+
         <>
      <div className="text" title="IMISSEDSHOPPING GOT TALENTS">
      <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023.png")} className="rounded mx-auto d-block" 
