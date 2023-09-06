@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Crawl-delay: 20
+Visit-time: 0200-0300
+Sitemap: https://www.imissedshopping.com/sitemap.xml
