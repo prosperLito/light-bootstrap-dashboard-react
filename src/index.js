@@ -40,10 +40,6 @@ root.render(
     <Switch>
       <Route path="/admin" render={(props) => <AdminLayout {...props} />} />
       <Redirect from="/" to="/admin/Home" />
-     
-      
-    </Switch>
-    
-  
+      </Switch>
   </BrowserRouter>
 );

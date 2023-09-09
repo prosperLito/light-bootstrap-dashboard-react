@@ -25,7 +25,7 @@ function TableList() {
           <Col md="4">
             <Card>
               
-              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(1).png")}></img>
+              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(1).png")}alt="electronics"></img>
                </Card>
           </Col>
         
@@ -34,7 +34,7 @@ function TableList() {
           <Col md="4">
             <Card>
               
-              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(2).png")}></img>
+              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(2).png")}alt="mechanic"></img>
               
                     </Card>
           </Col>
@@ -43,59 +43,59 @@ function TableList() {
           <Col md="4">
             <Card>
               
-              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(3).png")}></img>
+              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(3).png")}alt="electrical"></img>
               </Card>
           </Col>
 
          <Col md= "4">
             <Card>
-              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(4).png")}></img>
+              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(4).png")}alt="furniture"></img>
                </Card>
           </Col>
         
        < Col md="4">
             <Card>
               
-              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(5).png")}></img>
+              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(5).png")}alt="real estate"></img>
               
                     </Card>
           </Col>
           < Col md="4">
             <Card>
-              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(6).png")}></img>
+              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(6).png")}alt="sporting equipment"></img>
                 </Card>
           </Col>
 
     < Col md="4">
             <Card>
               
-              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(7).png")}></img>
+              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(7).png")}alt="renting services"></img>
                 </Card>
           </Col>
           < Col md="4">
             <Card>
               
-              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(8).png")}></img>
+              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(8).png")}alt="agriculture"></img>
                  </Card>
           </Col>
           < Col md="4">
             <Card>
               
-              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(9).png")}></img>
+              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(9).png")}alt="automobile"></img>
                  </Card>
           </Col>
 
           <Col md="4">
             <Card>
               
-              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(13).png")}></img>
+              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(13).png")}alt="entertainment"></img>
               
                     </Card>
           </Col>
           <Col md="4">
             <Card>
               
-              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(14).png")}></img>
+              <img src={require("assets/img/Giving Information On The Best Goods & Services Worth Investing In 2023(14).png")}alt="and many more"></img>
               
                     </Card>
           </Col>
