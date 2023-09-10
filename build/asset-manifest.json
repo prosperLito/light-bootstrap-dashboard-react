@@ -1,16 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.8e32219c.css",
-    "main.js": "/static/js/main.5959265e.js",
+    "main.js": "/static/js/main.95ab6c36.js",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.0454203f26b33fc02e2b.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.991c1c761fc31f9c3252.svg",
     "static/media/e.ico": "/static/media/e.156d7ba345f10a4f831b.ico",
-    "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(26).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(26).fd5c5c22d27cbed2a5c2.png",
     "static/media/sidebar-1.jpg": "/static/media/sidebar-1.2ea74e53b4baa6bbae05.jpg",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.6606667d9800a27eb8b5.eot",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.915a0b79c22a1c1f64da.ttf",
-    "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(27).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(27).c5320284b94ad7875601.png",
-    "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(28).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(28).eaccfadd71aca9c43cc3.png",
     "static/media/nucleo-icons.svg": "/static/media/nucleo-icons.e8827b8a8e3df089befd.svg",
     "static/media/fa-regular-400.svg": "/static/media/fa-regular-400.f3187c7462849ed261a8.svg",
     "static/media/fa-brands-400.eot": "/static/media/fa-brands-400.98f20b9ec79b2fee02a3.eot",
@@ -41,7 +38,6 @@
     "static/media/nucleo-icons.ttf": "/static/media/nucleo-icons.a30d0b0201482fcfffd3.ttf",
     "static/media/and so on.jpg": "/static/media/and so on.5bfd7115a7ebe6dfa279.jpg",
     "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(6).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(6).1bcdb294020d3862ce4a.png",
-    "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(22).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(22).76cd5691a0fc5b26b80a.png",
     "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(15).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(15).daccb5a109963ad1a578.png",
     "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(7).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(7).75588b1064fbd917f5ab.png",
     "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(16).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(16).564afd16791bdde9dc64.png",
@@ -50,8 +46,6 @@
     "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(9).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(9).6cc28aae39d3c101efa5.png",
     "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(2).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(2).5d32b1bd84353fff77bb.png",
     "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(5).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(5).aa5926817d2d93f157a0.png",
-    "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(23).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(23).8f37ea5541a8e93f4214.png",
-    "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(20).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(20).999f3c392741936e7ccb.png",
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.ea5a41ec4a24ce93298e.woff",
     "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(3).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(3).a3ff9b3cc31d0e18e3e4.png",
     "static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(14).png": "/static/media/Giving Information On The Best Goods & Services Worth Investing In 2023(14).f382cc3eca00e151cf30.png",
@@ -64,6 +58,6 @@
   },
   "entrypoints": [
     "static/css/main.8e32219c.css",
-    "static/js/main.5959265e.js"
+    "static/js/main.95ab6c36.js"
   ]
 }
